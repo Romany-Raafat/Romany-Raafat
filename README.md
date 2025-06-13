@@ -1,7 +1,9 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
+
+### Hi, I'm **Romany Raafat** 👋
 
 <details>
 <summary><strong>🎧 Busy coding & Vibing to:</strong></summary>
@@ -10,11 +12,22 @@
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)  
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)  
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
 
 </div>
+
+---
+
+### 👨‍💻 About Me
+
+<p>
+I'm passionate about <strong>problem solving</strong> and love diving deep into <strong>data structures</strong>, <strong>object-oriented programming (OOP)</strong>, and working with <strong>databases</strong>.  
+I'm highly interested in building real-world applications and exploring the world of <strong>AI</strong> and mobile development using <strong>Flutter</strong>.  
+I actively practice <strong>competitive programming</strong> and have strong problem-solving skills, especially on platforms like <strong>Codeforces</strong>.  
+Currently, I'm focused on mastering the core concepts of <strong>Flutter</strong> and expanding my skills to become a full-stack developer.
+</p>
 
 ---
 
