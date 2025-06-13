@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Romany-Rafat&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Romany-Raafat&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -10,14 +10,14 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Romany Raafat** — a university student studying **Computer Science & Artificial Intelligence** from Egypt 🇪🇬.
+Hi! I'm **Romany Raafat Halim Garas** — a passionate software engineering student based in Sohag, Egypt 🇪🇬.
 
-- 💡 I love **problem solving**, especially on platforms like **Codeforces**.
-- 💻 I enjoy working with **data structures**, **OOP**, and **databases**.
-- 📱 Interested in building **mobile apps** and exploring the world of **AI**.
-- 🛠️ Passionate about **Flutter** and learning all the **basics of Flutter**.
-- 📚 I also have knowledge of **basics of Operating Systems**.
-- 💻 I use **Android Studio** as my main development tool.
+- 💡 I love **problem solving**, especially on platforms like [Codeforces](https://codeforces.com/profile/pro_romany).
+- 🧠 I enjoy working with **data structures**, **OOP**, and **databases**.
+- 📱 Building apps is my passion — I'm deeply focused on **Flutter** development.
+- 🧰 I use **Android Studio**, **VSCode**, and work mostly on **Linux**.
+- 📚 Learning never stops — always exploring more in **AI**, **backend**, and **operating systems**.
+- 📄 You can [view my CV here](https://drive.google.com/drive/folders/1Howb-RBIi567qCzbGbq1OWt4QVyMeaAy?usp=sharing).
 
 ---
 
@@ -25,7 +25,7 @@ Hi! I'm **Romany Raafat** — a university student studying **Computer Science &
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
